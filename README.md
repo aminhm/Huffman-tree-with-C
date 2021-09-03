@@ -1,2 +1,2 @@
-# Huffman tree with C
+# Huffman tree with C++
  
